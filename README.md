@@ -21,6 +21,6 @@ ADD MORE RULES
 
 git f
 
-maintin
+maintina,s
 
 git f with prsamsadmin main
