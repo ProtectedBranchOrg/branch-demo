@@ -24,3 +24,6 @@ git f
 maintina,s
 
 git f with prsamsadmin main
+
+
+push from admin
