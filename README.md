@@ -23,4 +23,4 @@ git f
 
 maintin
 
-git f with pr
+git f with prsamsadmin main
